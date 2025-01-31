@@ -50,7 +50,7 @@ Project Structure:
   - `app/` for App Router implementation.
   - `components/` for reusable components.
   - `styles/` for Tailwind configuration and global styles.
-  - `utils/` for helper functions.
+  - `lib/` for helper functions.
   - `icons/` for Lucid icons as components.
 - Group related files in feature-based directories where applicable.
 
